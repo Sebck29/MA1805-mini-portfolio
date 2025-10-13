@@ -6,6 +6,6 @@ Test portfolio assessment example
 </head>
 <body>
 
-<h1>My Top 5 personal rankings of totally random things</h1>
-<h1>Tv Shows</h1>
-</body> Honourable Mentions:
+<h1>Drawing. 01</h1>
+<h1>Progress</h1>
+</body> I tried to create an emoji and put rectangles inside a yellow circle, but had a trouble placing them, and colouring correctly, so I just spammed rectangles and squares.
