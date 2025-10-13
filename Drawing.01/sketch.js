@@ -1,14 +1,23 @@
 function setup() {
-  createCanvas(500, 500); // canvas width/height
-  background(0); // Make background black
+  createCanvas(640, 480); 
+  background(230);    
+  // noStroke();              
 }
 
-// Start draw function code block
-function draw(){ 
-  fill(255);    // Set fill color
-  ellipse(250, 250, 200, 200); 
-} 
-// End of the code block 
- 
- 
-  
+function draw(){
+    fill(0); 
+    rect(0, 0, 100, 100); // x, y, w, h
+    
+    stroke(20, 50, 50)
+    fill(64);
+		rect(50, 50, 100, 100); 
+
+		fill(128)
+		rect(100, 100, 100, 100);
+		
+		fill(196);
+		rect(150, 150, 200, 200);
+
+		fill(220)
+		rect(300, 300, 400, 400); 
+}
