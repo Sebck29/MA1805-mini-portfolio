@@ -1,2 +1,5 @@
 # MA1805-mini-portfolio
-MA1805-Organised Portfolio
+
+Seb
+
+https://sebck29.github.io/MA1805-mini-portfolio/
