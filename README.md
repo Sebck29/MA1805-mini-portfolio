@@ -1,6 +1,4 @@
-# MA1805-mini-portfolio
-
-Seb
+# MA1805-MINI-PORTFOLIO
 
 https://sebck29.github.io/MA1805-mini-portfolio/
 
