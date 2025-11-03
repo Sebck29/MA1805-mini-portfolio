@@ -1,1 +1,0 @@
-From Projects 3-4, I had changed my 'foundation' to the simple changing and switching of vibrant colours, either through the click of a button of in vibe.
