@@ -1,1 +1,0 @@
-This is an attempt at the Red John Smiley Face
