@@ -1,1 +1,0 @@
-Smiley Face, moving mouth
