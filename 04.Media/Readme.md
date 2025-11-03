@@ -1,1 +1,0 @@
-For the media section of this portfolio, I thought I would keep a colourful vibe, but incorporating sound and video to the project.However, trying to play the video and sound simaltaneously became a slight problem.
